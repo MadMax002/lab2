@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "King Menu XXL",
+        "image": "img/products/kebab_2.jpg",
+        "description": "",
+        "price": 49.99
+    },
+    {
+        "id": "2",
+        "title": "King Menu L",
+        "image": "img/products/kebab_2.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Buttermilk",
+        "image": "img/products/airan.jpeg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "King Menu XL",
+        "image": "img/products/kebab_2.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "French fries",
+        "image": "img/products/free.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 49.99
+    },
+    {
+        "id": "6",
+        "title": "Vegetarian",
+        "image": "img/products/vegan.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 19.99
+    },
+    {
+        "id": "7",
+        "title": "Hot Menu",
+        "image": "img/products/kebab_3.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 24.99
+    },
+    {
+        "id": "8",
+        "title": "Nuggets",
+        "image": "img/products/nagets.jpg",
+        "additionalImages": [
+        ],
+        "description": "",
+        "price": 34.99
+    }
+]
